@@ -12,7 +12,7 @@ Link to the project [MoGo](https://testing-task/).
 
 ## Description
 
-**Header**
+***Header***
 Menu – this is the standard nav menu in WordPress.
 
 **Footer**
