@@ -8,7 +8,7 @@ All sections have the option to change the title (required) and the text. Implem
 
 ---
 
-Link to the project [MoGo](https://testing-task/).
+Link to the project [Wordpress-site](https://testing-task/).
 
 ## Description
 
@@ -58,6 +58,3 @@ The three most recent blog posts are displayed (by date).
 =======
 Integration into WordPress
 
-***
-Link to the project [Wordpress-site]() GitHub Page.
-***
