@@ -1,4 +1,5 @@
 # Wordpress-site
+<<<<<<< HEAD
 
 #### Integration into WordPress
 
@@ -44,3 +45,10 @@ If no testimonials is selected (testimonial), section is not displayed.
 
 **Blog section**
 The three most recent blog posts are displayed (by date).
+=======
+Integration into WordPress
+
+***
+Link to the project [Wordpress-site]() GitHub Page.
+***
+>>>>>>> 02b58e547e3ee1c5c073dd56b63a4908646fa954
