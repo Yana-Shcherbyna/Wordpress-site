@@ -13,10 +13,11 @@ Link to the project [MoGo](https://testing-task/).
 ## Description
 
 ***Header***
+
 Menu – this is the standard nav menu in WordPress.
 
 
-***ooter***
+***Footer***
 
 The current year is displayed, the rest is static text.
 
@@ -24,7 +25,7 @@ The current year is displayed, the rest is static text.
 
 It is possible to choose a background image for the section and edit the text.
 
-**About section**
+**About section***
 
 Output to three blog posts, if there is none, then this block is not displayed.
 List "fact list", it is possibility to add up to 5 elements. The block is not displayed if there is no element.
