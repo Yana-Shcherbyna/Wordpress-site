@@ -8,7 +8,7 @@ All sections have the option to change the title (required) and the text. Implem
 
 ---
 
-Link to the project [Wordpress-site](https://testing-task/](https://allergenic-splashes.000webhostapp.com/)).
+Link to the project [Wordpress-site](https://allergenic-splashes.000webhostapp.com/).
 
 ## Description
 
